@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2015\Projects\Univercity1\Univercity1\bin\Debug\Univercity1.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Univercity1\Univercity1\bin\Debug\Univercity1.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Univercity1\Univercity1\bin\Debug\Univercity1.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Univercity1\Univercity1\obj\Debug\Univercity1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Univercity1\Univercity1\obj\Debug\Univercity1.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Univercity1\Univercity1\obj\Debug\Univercity1.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Univercity1\Univercity1\obj\Debug\Univercity1.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Univercity1\Univercity1\obj\Debug\Univercity1.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Univercity1\Univercity1\obj\Debug\Univercity1.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Univercity1\Univercity1\obj\Debug\Univercity1.MainForm.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Univercity1\Univercity1\obj\Debug\Univercity1.ManageStudentForm.resources
